@@ -18,8 +18,8 @@
         <br>Médico:
         <select name="medico">
             <option value="Dr. Carlos Henrique">Dr. Carlos Henrique</option>
-            <option value="Dr. Carlos Henrique">Dr. Davidson</option>
-            <option value="Dr. Carlos Henrique">Dr. Sidio</option>
+            <option value="Dr. Davidson">Dr. Davidson</option>
+            <option value="Dr. Sidio">Dr. Sidio</option>
         </select>
         <br><input type="submit" value="Cadastrar">
     </form>
