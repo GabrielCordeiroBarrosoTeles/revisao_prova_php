@@ -28,7 +28,7 @@
                         aos que você colocou no banco de dados
                     -->
                     <td><?php echo $dados['id'] ?></td>
-                    <td><?php echo $dados['nome_P'] ?></td>
+                    <td><?php echo $dados['nome_p'] ?></td>
                     <td><?php echo $dados['sexo'] ?></td>
                     <td><?php echo $dados['data'] ?></td>
                     <td><?php echo $dados['medico'] ?></td>
